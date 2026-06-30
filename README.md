@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Segmentation
+# E-Commerce Customer Segmentation
 
 ## Overview
 This project focuses on customer segmentation using the Online Retail II dataset. The objective is to understand customer purchasing behavior by applying data cleaning, exploratory data analysis (EDA), SQL analysis, and the RFM (Recency, Frequency, Monetary) framework.
@@ -16,13 +16,13 @@ By transforming raw transactional data into meaningful customer insights, this p
 > **Note:** Due to file size limitations, the dataset is not included in this repository. Please download it from the link above and place it in the `data/` directory before running the notebooks.
 
 ## Notebooks
-### 📊 1. EDA & Data Cleaning
+### 1. EDA & Data Cleaning
 Explore the dataset, identify data quality issues, clean invalid records, engineer new features, and prepare the data for customer segmentation.
 
-### 👥 2. RFM Analysis & Clustering (Coming Soon)
+### 2. RFM Analysis & Clustering (Coming Soon)
 Build RFM features, segment customers based on purchasing behavior, and apply K-Means clustering to identify meaningful customer groups.
 
-### 🗄️ 3. SQL Analysis (Coming Soon)
+### 3. SQL Analysis (Coming Soon)
 Use SQL to answer business questions related to customer behavior, sales performance, revenue, and product trends.
 
 ## Tools & Libraries
